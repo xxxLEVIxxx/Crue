@@ -19,9 +19,13 @@
 - Companies looking for **plug-and-play departments** — dev teams, growth pods, design squads, and more.
 
 
-## 🛠 Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions from developers of all backgrounds! If you’d like to improve the frontend, fix bugs, or suggest features, feel free to open an issue or submit a pull request.
+
+> ⚠️ **Note:** This repository contains the **frontend code only**.  
+> If you're interested in contributing to the backend or joining the development team, we'd love to hear from you!  
+> Join our [Discord server](https://discord.gg/ds6rgA65sF) to share your ideas — promising contributors may be invited to collaborate on the backend.
 
 ## 📄 License
 
