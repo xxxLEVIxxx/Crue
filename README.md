@@ -19,10 +19,10 @@
 - Companies looking for **plug-and-play departments** — dev teams, growth pods, design squads, and more.
 
 
-## Contributing
+## 🛠 Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
